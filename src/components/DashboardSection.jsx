@@ -2,7 +2,7 @@ import { FaPlus } from "react-icons/fa";
 
 const DashboardSection = () => {
   return (
-    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center bg-[#F7F7F7] px-4 sm:px-6 py-6 rounded-xl mb-6 gap-6 lg:gap-10">
+    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center bg-[#F7F7F7] px-4 sm:px-6 py-6 rounded-xl  gap-6 lg:gap-10">
       <div className="w-full lg:w-7/12">
         <p className="text-3xl sm:text-4xl lg:text-5xl font-medium">
           Dashboard

@@ -96,7 +96,7 @@ const Login = () => {
             </form>
 
             <p className="text-center mt-8 text-sm text-gray-600">
-              Don't have an account?{" "}
+              Don't have an a account?{" "}
               <span className="text-[#0E3E2B] font-bold hover:underline cursor-pointer">
                 Sign up for free
               </span>

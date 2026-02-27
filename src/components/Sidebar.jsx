@@ -16,7 +16,7 @@ const Sidebar = () => {
 
           <li className="flex items-center gap-3 p-3 rounded-lg hover:bg-gray-200 cursor-pointer">
             <FaTasks />
-            Tasks
+            Task
           </li>
 
           <li className="flex items-center gap-3 p-3 rounded-lg hover:bg-gray-200 cursor-pointer">
